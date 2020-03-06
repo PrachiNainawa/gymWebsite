@@ -673,6 +673,7 @@ figure.snip0016:hover figcaption::before {
   max-width: 400px;
   float: right;
   margin-top: 5px;
+
 }
 
 /* Location, Phone, Email Section */
@@ -685,6 +686,8 @@ figure.snip0016:hover figcaption::before {
 .list-item {
   line-height: 4;
   color: #aaa;
+  margin-left:0;
+  padding-left:0;
 }
 
 .contact-text {
@@ -792,13 +795,15 @@ hr {
   .section-header {
     font-size: 65px;
   }
-  .direct-contact-container, .form-horizontal {
+  .direct-cont-container, .form-horizontal {
     float: none;
     margin: 10px auto;
   }
   .direct-contact-container {
     margin-top: 60px;
-    max-width: 250px;
+    max-width: 300px;
+    margin-left: 1;
+    padding-left: 1;
   }
   .social-media-list li {
     height: 60px;
@@ -833,7 +838,9 @@ hr {
   }
   .direct-contact-container {
     margin-top: 60px;
-    max-width: 250px;
+    max-width: 280px;
+    margin-left: 1;
+    padding-left: 1;
   }
   .social-media-list {
     left: 0;
