@@ -60,6 +60,7 @@ article, aside, dialog, figcaption, figure, footer, header, hgroup, main, nav, s
 
 body {
   margin: 0;
+  padding:0;
   font-family: 'Nunito Sans';
   font-size: 0.875rem;
   font-weight: 400;
@@ -457,6 +458,8 @@ pre {
 
 .container {
   width: 100%;
+  padding-right: 15px;
+  padding-left: 15px;
   margin-right: auto;
   margin-left: auto; }
   @media (min-width: 576px) {

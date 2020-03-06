@@ -10,7 +10,6 @@
 
 .circular {
   border-radius: 50%;
-  height: 200px;
 }
 .texticon {
   font-family: 'Oswald', sans-serif;
@@ -799,7 +798,7 @@ hr {
   }
   .direct-contact-container {
     margin-top: 60px;
-    max-width: 300px;
+    max-width: 250px;
   }
   .social-media-list li {
     height: 60px;
@@ -834,7 +833,7 @@ hr {
   }
   .direct-contact-container {
     margin-top: 60px;
-    max-width: 280px;
+    max-width: 250px;
   }
   .social-media-list {
     left: 0;

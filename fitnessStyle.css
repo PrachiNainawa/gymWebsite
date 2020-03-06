@@ -75,3 +75,16 @@ body .cont .third::after {
 }
 
 /*# sourceMappingURL=style.css.map */
+
+.login-trigger {
+  font-weight: bold;
+  color: #fff;
+  background: linear-gradient(to bottom right, #e44e7b, #F87E7B);
+
+  border-radius: 30px;
+  position: relative;
+
+  }
+  .login-trigger:hover{
+  background: black;
+  }
